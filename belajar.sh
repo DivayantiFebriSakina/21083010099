@@ -1,1 +1,0 @@
-echo "Semangat Belajar Permission"
